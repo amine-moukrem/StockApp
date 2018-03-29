@@ -3,7 +3,4 @@ This application connects to Alpha Vantage APIs to get stock data and display mu
 
 ## Example uses:
 ![Alt text](example-images/ex-img01.png?raw=true "Example 1")
-![Alt text](example-images/ex-img02.png?raw=true "Example 2")
-![Alt text](example-images/ex-img03.png?raw=true "Example 3")
-![Alt text](example-images/ex-img04.png?raw=true "Example 4")
 ![Alt text](example-images/ex-img05.png?raw=true "Example 5")
