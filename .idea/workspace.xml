@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9a8d184-15cc-4bb8-8c62-d651e006c02a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LICENSE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LineChart.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/New Text Document (2).txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/New Text Document.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/StockApp_1.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/jcommon-1.0.23.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/jfreechart-1.0.19-experimental.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/jfreechart-1.0.19-swt.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/jfreechart-1.0.19.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/jfreesvg-2.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/junit-4.11.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/orsoncharts-1.4-eval-nofx.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/orsonpdf-1.6-eval.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/servlet.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/swtgraphics2d.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/manifest.mf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/StockJSONReader.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/StockUI$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/StockUI$10.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/StockUI$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/StockUI$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/StockUI$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/StockUI$5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/StockUI$6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/StockUI$7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/StockUI$8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/StockUI$9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/StockUI.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/CDL.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/Cookie.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/CookieList.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/HTTP.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/HTTPTokener.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/JSONArray.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/JSONException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/JSONML.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/JSONObject$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/JSONObject$Null.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/JSONObject.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/JSONPointer$Builder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/JSONPointer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/JSONPointerException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/JSONString.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/JSONStringer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/JSONTokener.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/JSONWriter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/Property.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/README" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/XML$1$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/XML$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/XML.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/StockApp_1/org/json/XMLTokener.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/StockJSONReader.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/StockUI.form" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/StockUI.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/CDL.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/Cookie.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/CookieList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/HTTP.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/HTTPTokener.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONML.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONObject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONPointer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONPointerException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONString.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONStringer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONTokener.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONWriter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/Property.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/README" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/XML.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/json/XMLTokener.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\neost\Desktop\StockApp_1\exportToHTML" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="StockUI.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StockUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="655" column="57" lean-forward="true" selection-start-line="655" selection-start-column="57" selection-end-line="655" selection-end-column="57" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#5753#5754#0" expanded="true" />
+                <element signature="e#5824#5825#0" expanded="true" />
+                <element signature="e#23631#23632#0" expanded="true" />
+                <element signature="e#23703#23704#0" expanded="true" />
+                <element signature="e#41696#41697#0" expanded="true" />
+                <element signature="e#41757#41758#0" expanded="true" />
+                <element signature="e#42107#42108#0" expanded="true" />
+                <element signature="e#42182#42183#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StockJSONReader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StockJSONReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+              <folding>
+                <element signature="e#23062#23063#0" expanded="true" />
+                <element signature="e#23121#23122#0" expanded="true" />
+                <element signature="e#23191#23192#0" expanded="true" />
+                <element signature="e#23257#23258#0" expanded="true" />
+                <element signature="e#23320#23321#0" expanded="true" />
+                <element signature="e#23379#23380#0" expanded="true" />
+                <element signature="e#23449#23450#0" expanded="true" />
+                <element signature="e#23515#23516#0" expanded="true" />
+                <element signature="e#23577#23578#0" expanded="true" />
+                <element signature="e#23634#23635#0" expanded="true" />
+                <element signature="e#23703#23704#0" expanded="true" />
+                <element signature="e#23767#23768#0" expanded="true" />
+                <element signature="e#23831#23832#0" expanded="true" />
+                <element signature="e#23892#23893#0" expanded="true" />
+                <element signature="e#24096#24097#0" expanded="true" />
+                <element signature="e#24159#24160#0" expanded="true" />
+                <element signature="e#24361#24362#0" expanded="true" />
+                <element signature="e#24413#24414#0" expanded="true" />
+                <element signature="e#24480#24481#0" expanded="true" />
+                <element signature="e#24539#24540#0" expanded="true" />
+                <element signature="e#24599#24600#0" expanded="true" />
+                <element signature="e#24651#24652#0" expanded="true" />
+                <element signature="e#24718#24719#0" expanded="true" />
+                <element signature="e#24777#24778#0" expanded="true" />
+                <element signature="e#24857#24858#0" expanded="true" />
+                <element signature="e#24915#24916#0" expanded="true" />
+                <element signature="e#25009#25010#0" expanded="true" />
+                <element signature="e#25057#25058#0" expanded="true" />
+                <element signature="e#25124#25125#0" expanded="true" />
+                <element signature="e#25151#25152#0" expanded="true" />
+                <element signature="e#25247#25248#0" expanded="true" />
+                <element signature="e#25288#25289#0" expanded="true" />
+                <element signature="e#25334#25335#0" expanded="true" />
+                <element signature="e#25376#25377#0" expanded="true" />
+                <element signature="e#25461#25462#0" expanded="true" />
+                <element signature="e#25505#25506#0" expanded="true" />
+                <element signature="e#25556#25557#0" expanded="true" />
+                <element signature="e#25601#25602#0" expanded="true" />
+                <element signature="e#25686#25687#0" expanded="true" />
+                <element signature="e#25730#25731#0" expanded="true" />
+                <element signature="e#25781#25782#0" expanded="true" />
+                <element signature="e#25826#25827#0" expanded="true" />
+                <element signature="e#25903#25904#0" expanded="true" />
+                <element signature="e#25938#25939#0" expanded="true" />
+                <element signature="e#26004#26005#0" expanded="true" />
+                <element signature="e#26041#26042#0" expanded="true" />
+                <element signature="e#26082#26083#0" expanded="true" />
+                <element signature="e#26120#26121#0" expanded="true" />
+                <element signature="e#26186#26187#0" expanded="true" />
+                <element signature="e#26223#26224#0" expanded="true" />
+                <element signature="e#26264#26265#0" expanded="true" />
+                <element signature="e#26302#26303#0" expanded="true" />
+                <element signature="e#26366#26367#0" expanded="true" />
+                <element signature="e#26402#26403#0" expanded="true" />
+                <element signature="e#26442#26443#0" expanded="true" />
+                <element signature="e#26479#26480#0" expanded="true" />
+                <element signature="e#26547#26548#0" expanded="true" />
+                <element signature="e#26585#26586#0" expanded="true" />
+                <element signature="e#26627#26628#0" expanded="true" />
+                <element signature="e#26666#26667#0" expanded="true" />
+                <element signature="e#26736#26737#0" expanded="true" />
+                <element signature="e#26775#26776#0" expanded="true" />
+                <element signature="e#26818#26819#0" expanded="true" />
+                <element signature="e#26858#26859#0" expanded="true" />
+                <element signature="e#26922#26923#0" expanded="true" />
+                <element signature="e#26958#26959#0" expanded="true" />
+                <element signature="e#26998#26999#0" expanded="true" />
+                <element signature="e#27035#27036#0" expanded="true" />
+                <element signature="e#27099#27100#0" expanded="true" />
+                <element signature="e#27135#27136#0" expanded="true" />
+                <element signature="e#27175#27176#0" expanded="true" />
+                <element signature="e#27212#27213#0" expanded="true" />
+                <element signature="e#27254#27255#0" expanded="true" />
+                <element signature="e#27286#27287#0" expanded="true" />
+                <element signature="e#27329#27330#0" expanded="true" />
+                <element signature="e#27362#27363#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/StockJSONReader.java" />
+        <option value="$PROJECT_DIR$/src/StockUI.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="296" />
+    <option name="y" value="-14" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StockApp_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StockApp_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StockApp_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StockApp_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="StockUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="StockUI" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="StockApp_1" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.StockUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9a8d184-15cc-4bb8-8c62-d651e006c02a" name="Default" comment="" />
+      <created>1522275667411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522275667411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31045407" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118229166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/StockUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#5753#5754#0" expanded="true" />
+            <element signature="e#5824#5825#0" expanded="true" />
+            <element signature="e#23631#23632#0" expanded="true" />
+            <element signature="e#23703#23704#0" expanded="true" />
+            <element signature="e#41696#41697#0" expanded="true" />
+            <element signature="e#41757#41758#0" expanded="true" />
+            <element signature="e#42107#42108#0" expanded="true" />
+            <element signature="e#42182#42183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StockJSONReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <element signature="e#23062#23063#0" expanded="true" />
+            <element signature="e#23121#23122#0" expanded="true" />
+            <element signature="e#23191#23192#0" expanded="true" />
+            <element signature="e#23257#23258#0" expanded="true" />
+            <element signature="e#23320#23321#0" expanded="true" />
+            <element signature="e#23379#23380#0" expanded="true" />
+            <element signature="e#23449#23450#0" expanded="true" />
+            <element signature="e#23515#23516#0" expanded="true" />
+            <element signature="e#23577#23578#0" expanded="true" />
+            <element signature="e#23634#23635#0" expanded="true" />
+            <element signature="e#23703#23704#0" expanded="true" />
+            <element signature="e#23767#23768#0" expanded="true" />
+            <element signature="e#23831#23832#0" expanded="true" />
+            <element signature="e#23892#23893#0" expanded="true" />
+            <element signature="e#24096#24097#0" expanded="true" />
+            <element signature="e#24159#24160#0" expanded="true" />
+            <element signature="e#24361#24362#0" expanded="true" />
+            <element signature="e#24413#24414#0" expanded="true" />
+            <element signature="e#24480#24481#0" expanded="true" />
+            <element signature="e#24539#24540#0" expanded="true" />
+            <element signature="e#24599#24600#0" expanded="true" />
+            <element signature="e#24651#24652#0" expanded="true" />
+            <element signature="e#24718#24719#0" expanded="true" />
+            <element signature="e#24777#24778#0" expanded="true" />
+            <element signature="e#24857#24858#0" expanded="true" />
+            <element signature="e#24915#24916#0" expanded="true" />
+            <element signature="e#25009#25010#0" expanded="true" />
+            <element signature="e#25057#25058#0" expanded="true" />
+            <element signature="e#25124#25125#0" expanded="true" />
+            <element signature="e#25151#25152#0" expanded="true" />
+            <element signature="e#25247#25248#0" expanded="true" />
+            <element signature="e#25288#25289#0" expanded="true" />
+            <element signature="e#25334#25335#0" expanded="true" />
+            <element signature="e#25376#25377#0" expanded="true" />
+            <element signature="e#25461#25462#0" expanded="true" />
+            <element signature="e#25505#25506#0" expanded="true" />
+            <element signature="e#25556#25557#0" expanded="true" />
+            <element signature="e#25601#25602#0" expanded="true" />
+            <element signature="e#25686#25687#0" expanded="true" />
+            <element signature="e#25730#25731#0" expanded="true" />
+            <element signature="e#25781#25782#0" expanded="true" />
+            <element signature="e#25826#25827#0" expanded="true" />
+            <element signature="e#25903#25904#0" expanded="true" />
+            <element signature="e#25938#25939#0" expanded="true" />
+            <element signature="e#26004#26005#0" expanded="true" />
+            <element signature="e#26041#26042#0" expanded="true" />
+            <element signature="e#26082#26083#0" expanded="true" />
+            <element signature="e#26120#26121#0" expanded="true" />
+            <element signature="e#26186#26187#0" expanded="true" />
+            <element signature="e#26223#26224#0" expanded="true" />
+            <element signature="e#26264#26265#0" expanded="true" />
+            <element signature="e#26302#26303#0" expanded="true" />
+            <element signature="e#26366#26367#0" expanded="true" />
+            <element signature="e#26402#26403#0" expanded="true" />
+            <element signature="e#26442#26443#0" expanded="true" />
+            <element signature="e#26479#26480#0" expanded="true" />
+            <element signature="e#26547#26548#0" expanded="true" />
+            <element signature="e#26585#26586#0" expanded="true" />
+            <element signature="e#26627#26628#0" expanded="true" />
+            <element signature="e#26666#26667#0" expanded="true" />
+            <element signature="e#26736#26737#0" expanded="true" />
+            <element signature="e#26775#26776#0" expanded="true" />
+            <element signature="e#26818#26819#0" expanded="true" />
+            <element signature="e#26858#26859#0" expanded="true" />
+            <element signature="e#26922#26923#0" expanded="true" />
+            <element signature="e#26958#26959#0" expanded="true" />
+            <element signature="e#26998#26999#0" expanded="true" />
+            <element signature="e#27035#27036#0" expanded="true" />
+            <element signature="e#27099#27100#0" expanded="true" />
+            <element signature="e#27135#27136#0" expanded="true" />
+            <element signature="e#27175#27176#0" expanded="true" />
+            <element signature="e#27212#27213#0" expanded="true" />
+            <element signature="e#27254#27255#0" expanded="true" />
+            <element signature="e#27286#27287#0" expanded="true" />
+            <element signature="e#27329#27330#0" expanded="true" />
+            <element signature="e#27362#27363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/json/JSONObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="804" column="18" lean-forward="false" selection-start-line="804" selection-start-column="18" selection-end-line="804" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StockUI.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StockJSONReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <element signature="e#23062#23063#0" expanded="true" />
+            <element signature="e#23121#23122#0" expanded="true" />
+            <element signature="e#23191#23192#0" expanded="true" />
+            <element signature="e#23257#23258#0" expanded="true" />
+            <element signature="e#23320#23321#0" expanded="true" />
+            <element signature="e#23379#23380#0" expanded="true" />
+            <element signature="e#23449#23450#0" expanded="true" />
+            <element signature="e#23515#23516#0" expanded="true" />
+            <element signature="e#23577#23578#0" expanded="true" />
+            <element signature="e#23634#23635#0" expanded="true" />
+            <element signature="e#23703#23704#0" expanded="true" />
+            <element signature="e#23767#23768#0" expanded="true" />
+            <element signature="e#23831#23832#0" expanded="true" />
+            <element signature="e#23892#23893#0" expanded="true" />
+            <element signature="e#24096#24097#0" expanded="true" />
+            <element signature="e#24159#24160#0" expanded="true" />
+            <element signature="e#24361#24362#0" expanded="true" />
+            <element signature="e#24413#24414#0" expanded="true" />
+            <element signature="e#24480#24481#0" expanded="true" />
+            <element signature="e#24539#24540#0" expanded="true" />
+            <element signature="e#24599#24600#0" expanded="true" />
+            <element signature="e#24651#24652#0" expanded="true" />
+            <element signature="e#24718#24719#0" expanded="true" />
+            <element signature="e#24777#24778#0" expanded="true" />
+            <element signature="e#24857#24858#0" expanded="true" />
+            <element signature="e#24915#24916#0" expanded="true" />
+            <element signature="e#25009#25010#0" expanded="true" />
+            <element signature="e#25057#25058#0" expanded="true" />
+            <element signature="e#25124#25125#0" expanded="true" />
+            <element signature="e#25151#25152#0" expanded="true" />
+            <element signature="e#25247#25248#0" expanded="true" />
+            <element signature="e#25288#25289#0" expanded="true" />
+            <element signature="e#25334#25335#0" expanded="true" />
+            <element signature="e#25376#25377#0" expanded="true" />
+            <element signature="e#25461#25462#0" expanded="true" />
+            <element signature="e#25505#25506#0" expanded="true" />
+            <element signature="e#25556#25557#0" expanded="true" />
+            <element signature="e#25601#25602#0" expanded="true" />
+            <element signature="e#25686#25687#0" expanded="true" />
+            <element signature="e#25730#25731#0" expanded="true" />
+            <element signature="e#25781#25782#0" expanded="true" />
+            <element signature="e#25826#25827#0" expanded="true" />
+            <element signature="e#25903#25904#0" expanded="true" />
+            <element signature="e#25938#25939#0" expanded="true" />
+            <element signature="e#26004#26005#0" expanded="true" />
+            <element signature="e#26041#26042#0" expanded="true" />
+            <element signature="e#26082#26083#0" expanded="true" />
+            <element signature="e#26120#26121#0" expanded="true" />
+            <element signature="e#26186#26187#0" expanded="true" />
+            <element signature="e#26223#26224#0" expanded="true" />
+            <element signature="e#26264#26265#0" expanded="true" />
+            <element signature="e#26302#26303#0" expanded="true" />
+            <element signature="e#26366#26367#0" expanded="true" />
+            <element signature="e#26402#26403#0" expanded="true" />
+            <element signature="e#26442#26443#0" expanded="true" />
+            <element signature="e#26479#26480#0" expanded="true" />
+            <element signature="e#26547#26548#0" expanded="true" />
+            <element signature="e#26585#26586#0" expanded="true" />
+            <element signature="e#26627#26628#0" expanded="true" />
+            <element signature="e#26666#26667#0" expanded="true" />
+            <element signature="e#26736#26737#0" expanded="true" />
+            <element signature="e#26775#26776#0" expanded="true" />
+            <element signature="e#26818#26819#0" expanded="true" />
+            <element signature="e#26858#26859#0" expanded="true" />
+            <element signature="e#26922#26923#0" expanded="true" />
+            <element signature="e#26958#26959#0" expanded="true" />
+            <element signature="e#26998#26999#0" expanded="true" />
+            <element signature="e#27035#27036#0" expanded="true" />
+            <element signature="e#27099#27100#0" expanded="true" />
+            <element signature="e#27135#27136#0" expanded="true" />
+            <element signature="e#27175#27176#0" expanded="true" />
+            <element signature="e#27212#27213#0" expanded="true" />
+            <element signature="e#27254#27255#0" expanded="true" />
+            <element signature="e#27286#27287#0" expanded="true" />
+            <element signature="e#27329#27330#0" expanded="true" />
+            <element signature="e#27362#27363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StockUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="655" column="57" lean-forward="true" selection-start-line="655" selection-start-column="57" selection-end-line="655" selection-end-column="57" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#5753#5754#0" expanded="true" />
+            <element signature="e#5824#5825#0" expanded="true" />
+            <element signature="e#23631#23632#0" expanded="true" />
+            <element signature="e#23703#23704#0" expanded="true" />
+            <element signature="e#41696#41697#0" expanded="true" />
+            <element signature="e#41757#41758#0" expanded="true" />
+            <element signature="e#42107#42108#0" expanded="true" />
+            <element signature="e#42182#42183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
