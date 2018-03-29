@@ -1,4 +1,5 @@
 # Stock Finder Application
+[![Coverage Status](https://coveralls.io/repos/github/amine-moukrem/StockApp/badge.svg?branch=master)](https://coveralls.io/github/amine-moukrem/StockApp?branch=master)
 This application connects to Alpha Vantage APIs to get stock data and display multiple data points in a GUI. This application also uses the JFreeChart library to graph recent data received from APIs.
 
 ## Example uses:
